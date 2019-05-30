@@ -1,0 +1,6 @@
+- We have defined 4 issue types and they are stored our database as text files
+- Your responsibility for this exercise is ;
+    * To define this four issue types
+    * Implement related service methods for the issue types using interface IssueTypeExportImportService
+    * Implement a main method to ServiceRunner class to read all 4 issue types from the text files (do necessary conversios e.g. to date and int) and print all the information to System.out using provided service methods.
+    * Use abstractions where necessary to prevent code duplications.

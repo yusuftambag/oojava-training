@@ -1,0 +1,4 @@
+issue_key,summary;assignee;moderator;reviewers;meeting_duration(h);review_date
+SERV-27;Requirements Review;user3;user4;user1,user2,user7,user10;12;01/02/2019
+SERV-28;Design Review;user1;user2;user11,user12,user5,user9,user8;30;03/07/2019
+SERV-29;Kod Review I;user7;user7;user1,user2,user4,user10,user6,user9,user3;80;30/11/2019

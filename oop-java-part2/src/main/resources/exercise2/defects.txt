@@ -1,0 +1,11 @@
+issue_key;summary;module_name;assignee;priority;version;affected_user_count
+SERV-1;Service Interrupted Exception; Threading Module;user8; high;1.7.6; all
+SERV-2;Service Unavailable Exception; Service Module;; high;1.7.6; 50
+SERV-3;Main Screen Fails to Load; Main Module;user6; high;1.7.6; 75
+SERV-4;Script Console Propmts Error;JSS Module;user5; medium;1.7.6; 15
+SERV-5;Unexpected Error;;user2; high;1.7.6; 120
+SERV-6;Concurrent Modification Error;Threading Module;; high;1.7.6; all
+SERV-7;Object does not Exists Exception;Database Module;; minor;1.7.6; 1
+SERV-8;Null pointer exception at module 4;Module 4;; high;1.7.6; 100
+SERV-9;NPE at Service parameter passing;Service Management Module ;user7; high;1.7.6; 130
+SERV-10;NPE at Grade Chart Generation;Chart Plotting Module;user6; minor;1.7.6; 7

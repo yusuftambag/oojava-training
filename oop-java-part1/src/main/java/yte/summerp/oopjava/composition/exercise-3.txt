@@ -1,0 +1,12 @@
+Add course grade for student for each course student takes, you may introduce additional classes and necessary checks..
+Print to System.out following information for each student:
+
+Student Id: <student-id>
+Student Name: <student-name>
+Course List:
+
+<Course Name 1> <Course-Grade 1>
+<Course Name 2> <Course-Grade 2>
+...
+
+<Course Name N> <Course-Grade N>

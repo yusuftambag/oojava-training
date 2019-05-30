@@ -1,0 +1,6 @@
+issue_key;summary;assignee
+SERV-15;Servis Ayarlaması;user3
+SERV-16;Havaalanı Transferi;user9
+SERV-17;Lisans Tedarikleri;user5
+SERV-18;Fatura Ödemeleri;user1
+SERV-19;Elektrik Kesintisi Hazırlığı;user13

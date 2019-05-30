@@ -1,0 +1,5 @@
+issue_key;summary;module_name;assignee;reporting_customer;affected_user_count
+SERV-11;Grafik Line Yerine Scatter Olsun;Chart Plotting Module;user4;Ahmet KÖK,5
+SERV-12;Ana Ekranın Temel Rengi Mavi Olsun;Main Module;;Hakan BARDAKÇI;all
+SERV-13;Araç Bakım İşlemleri Eklenmeli;;user3;Temel KAMYONCUOĞLU;30
+SERV-14;Doktor Kayıt Modülünün Eczane Entegrasyonu;Kurum Doktoru Modülü;user7;Dr. Ahmet GENÇ;2

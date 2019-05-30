@@ -1,0 +1,2 @@
+Implement needsRepairing method to return true if at least length of one of the legs is different for a complete table!
+Do not forget to add necessary exceptional case checks an throw appropiriate exceptions with user friendly messages.

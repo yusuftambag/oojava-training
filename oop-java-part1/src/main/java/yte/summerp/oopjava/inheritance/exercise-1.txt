@@ -1,0 +1,7 @@
+Define following classes by defining missing interfaces and abstract classes wherever reqired in order to prevent method duplication / multiple inheritance.
+(You may also change existing classes / interfaces)
+
+1-TanakaBird
+2-Rabbit
+3-Chicken
+4-Worm
