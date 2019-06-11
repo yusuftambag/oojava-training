@@ -25,6 +25,7 @@ public class Starship {
 		private boolean teleportInProgress=false;
 
 		public void teleportTo(SpaceCoordinate spaceCoordinate) {
+			teleportTo(shipName,spaceCoordinate);
 		}
 
 		public void teleportTo(String personName,SpaceCoordinate spaceCoordinate) {
